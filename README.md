@@ -41,7 +41,7 @@ This code defines a class for a Type-2 FIS, including the functionality to plot 
 #### Plot: Type-2 Membership Functions
 ![Type-2 Membership Functions Plot](code3.png)
 This figure contains three subplots showing the type-2 membership functions for velocity, distance, and pedal, highlighting the area of uncertainty between the upper and lower membership functions.
-
+![Interval Type-2 Fuzzy Set Plot](code4.png)
 ## Conclusion
 This repository serves as a starting point for those interested in exploring the implementation and application of Type-2 Fuzzy Logic Systems. Users are encouraged to delve deeper into the code, adapt it to their specific needs, and contribute to the study of fuzzy logic.
 
